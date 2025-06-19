@@ -1,0 +1,301 @@
+Order ID,Product ID,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,City,Customer ID,Order Date,Ship Date,Ship Mode,Segment
+ORD-1000,PROD-2000,Technology,Binders,683.23,8,0.1,34.29,East,Seattle,CUST-3000,2023-01-01,2023-01-03,Same Day,Consumer
+ORD-1001,PROD-2001,Furniture,Storage,492.87,6,0.0,222.18,East,Chicago,CUST-3001,2023-01-02,2023-01-04,First Class,Home Office
+ORD-1002,PROD-2002,Technology,Chairs,503.17,7,0.0,255.76,East,San Francisco,CUST-3002,2023-01-03,2023-01-05,Same Day,Home Office
+ORD-1003,PROD-2003,Technology,Tables,101.62,3,0.2,248.05,West,Houston,CUST-3003,2023-01-04,2023-01-06,First Class,Consumer
+ORD-1004,PROD-2004,Furniture,Chairs,109.87,1,0.3,-45.11,Central,Chicago,CUST-3004,2023-01-05,2023-01-07,Standard Class,Corporate
+ORD-1005,PROD-2005,Furniture,Tables,610.39,5,0.2,426.48,West,Chicago,CUST-3005,2023-01-06,2023-01-08,Standard Class,Home Office
+ORD-1006,PROD-2006,Technology,Chairs,562.63,2,0.3,59.36,South,San Francisco,CUST-3006,2023-01-07,2023-01-09,First Class,Consumer
+ORD-1007,PROD-2007,Office Supplies,Accessories,228.47,5,0.3,-22.29,East,New York,CUST-3007,2023-01-08,2023-01-10,First Class,Home Office
+ORD-1008,PROD-2008,Technology,Storage,947.27,8,0.0,433.25,West,San Francisco,CUST-3008,2023-01-09,2023-01-11,Standard Class,Consumer
+ORD-1009,PROD-2009,Technology,Tables,785.67,9,0.2,473.39,West,Houston,CUST-3009,2023-01-10,2023-01-12,Same Day,Corporate
+ORD-1010,PROD-2010,Technology,Binders,131.2,2,0.2,417.28,Central,Chicago,CUST-3010,2023-01-11,2023-01-13,Standard Class,Home Office
+ORD-1011,PROD-2011,Technology,Chairs,932.31,3,0.3,385.71,Central,San Francisco,CUST-3011,2023-01-12,2023-01-14,Same Day,Consumer
+ORD-1012,PROD-2012,Furniture,Chairs,974.76,3,0.2,293.15,East,New York,CUST-3012,2023-01-13,2023-01-15,First Class,Home Office
+ORD-1013,PROD-2013,Technology,Tables,996.01,1,0.1,230.51,West,San Francisco,CUST-3013,2023-01-14,2023-01-16,First Class,Home Office
+ORD-1014,PROD-2014,Office Supplies,Binders,74.75,8,0.1,-47.81,West,Seattle,CUST-3014,2023-01-15,2023-01-17,Same Day,Home Office
+ORD-1015,PROD-2015,Furniture,Binders,742.29,6,0.2,145.07,Central,New York,CUST-3015,2023-01-16,2023-01-18,First Class,Home Office
+ORD-1016,PROD-2016,Office Supplies,Accessories,555.0,8,0.2,123.61,West,Houston,CUST-3016,2023-01-17,2023-01-19,Same Day,Consumer
+ORD-1017,PROD-2017,Office Supplies,Accessories,711.71,9,0.3,55.85,West,Chicago,CUST-3017,2023-01-18,2023-01-20,Second Class,Corporate
+ORD-1018,PROD-2018,Office Supplies,Accessories,969.28,5,0.1,334.05,West,San Francisco,CUST-3018,2023-01-19,2023-01-21,Standard Class,Consumer
+ORD-1019,PROD-2019,Office Supplies,Accessories,694.27,3,0.1,197.53,Central,New York,CUST-3019,2023-01-20,2023-01-22,Second Class,Consumer
+ORD-1020,PROD-2020,Furniture,Accessories,840.22,5,0.0,-51.37,East,Seattle,CUST-3020,2023-01-21,2023-01-23,Same Day,Consumer
+ORD-1021,PROD-2021,Furniture,Accessories,869.53,5,0.3,32.11,South,New York,CUST-3021,2023-01-22,2023-01-24,Standard Class,Corporate
+ORD-1022,PROD-2022,Office Supplies,Storage,841.71,5,0.0,309.96,East,Seattle,CUST-3022,2023-01-23,2023-01-25,Same Day,Home Office
+ORD-1023,PROD-2023,Office Supplies,Binders,437.57,3,0.1,-54.32,South,Houston,CUST-3023,2023-01-24,2023-01-26,Standard Class,Home Office
+ORD-1024,PROD-2024,Furniture,Accessories,238.12,4,0.3,410.72,West,Chicago,CUST-3024,2023-01-25,2023-01-27,Standard Class,Home Office
+ORD-1025,PROD-2025,Furniture,Binders,408.72,9,0.2,197.09,East,Houston,CUST-3025,2023-01-26,2023-01-28,Standard Class,Corporate
+ORD-1026,PROD-2026,Furniture,Binders,894.06,9,0.3,188.35,South,San Francisco,CUST-3026,2023-01-27,2023-01-29,Standard Class,Home Office
+ORD-1027,PROD-2027,Technology,Phones,163.67,2,0.2,255.44,Central,New York,CUST-3027,2023-01-28,2023-01-30,Same Day,Corporate
+ORD-1028,PROD-2028,Technology,Storage,523.06,8,0.2,394.81,Central,Seattle,CUST-3028,2023-01-29,2023-01-31,Standard Class,Home Office
+ORD-1029,PROD-2029,Technology,Accessories,248.56,8,0.3,108.69,East,Seattle,CUST-3029,2023-01-30,2023-02-01,Standard Class,Home Office
+ORD-1030,PROD-2030,Office Supplies,Chairs,589.68,7,0.2,306.81,East,New York,CUST-3030,2023-01-31,2023-02-02,Second Class,Consumer
+ORD-1031,PROD-2031,Technology,Tables,865.88,8,0.0,239.44,West,New York,CUST-3031,2023-02-01,2023-02-03,First Class,Corporate
+ORD-1032,PROD-2032,Office Supplies,Chairs,882.75,3,0.1,60.22,East,San Francisco,CUST-3032,2023-02-02,2023-02-04,First Class,Consumer
+ORD-1033,PROD-2033,Office Supplies,Storage,251.95,6,0.2,427.18,West,Houston,CUST-3033,2023-02-03,2023-02-05,Second Class,Consumer
+ORD-1034,PROD-2034,Technology,Tables,909.54,1,0.0,378.46,West,Seattle,CUST-3034,2023-02-04,2023-02-06,Second Class,Consumer
+ORD-1035,PROD-2035,Office Supplies,Storage,600.05,7,0.2,295.07,Central,San Francisco,CUST-3035,2023-02-05,2023-02-07,Same Day,Corporate
+ORD-1036,PROD-2036,Technology,Binders,363.21,1,0.1,410.35,Central,Houston,CUST-3036,2023-02-06,2023-02-08,Same Day,Corporate
+ORD-1037,PROD-2037,Technology,Tables,714.02,9,0.0,420.38,South,San Francisco,CUST-3037,2023-02-07,2023-02-09,Same Day,Home Office
+ORD-1038,PROD-2038,Furniture,Binders,492.03,1,0.1,325.02,Central,Seattle,CUST-3038,2023-02-08,2023-02-10,Second Class,Consumer
+ORD-1039,PROD-2039,Technology,Chairs,390.43,1,0.1,402.21,Central,New York,CUST-3039,2023-02-09,2023-02-11,Second Class,Home Office
+ORD-1040,PROD-2040,Furniture,Chairs,710.98,7,0.0,318.48,East,New York,CUST-3040,2023-02-10,2023-02-12,Standard Class,Consumer
+ORD-1041,PROD-2041,Technology,Tables,263.75,2,0.0,308.08,Central,Houston,CUST-3041,2023-02-11,2023-02-13,Same Day,Corporate
+ORD-1042,PROD-2042,Technology,Tables,343.65,5,0.0,271.17,South,Chicago,CUST-3042,2023-02-12,2023-02-14,Same Day,Corporate
+ORD-1043,PROD-2043,Furniture,Accessories,445.76,8,0.3,351.63,East,Houston,CUST-3043,2023-02-13,2023-02-15,Same Day,Corporate
+ORD-1044,PROD-2044,Furniture,Storage,268.61,8,0.0,-4.84,South,Chicago,CUST-3044,2023-02-14,2023-02-16,First Class,Consumer
+ORD-1045,PROD-2045,Technology,Accessories,417.1,3,0.0,428.52,Central,San Francisco,CUST-3045,2023-02-15,2023-02-17,Standard Class,Corporate
+ORD-1046,PROD-2046,Office Supplies,Storage,580.04,7,0.0,423.11,South,San Francisco,CUST-3046,2023-02-16,2023-02-18,Same Day,Consumer
+ORD-1047,PROD-2047,Furniture,Accessories,746.15,3,0.0,-82.45,East,Seattle,CUST-3047,2023-02-17,2023-02-19,Same Day,Home Office
+ORD-1048,PROD-2048,Office Supplies,Binders,771.85,6,0.2,395.49,West,Chicago,CUST-3048,2023-02-18,2023-02-20,Same Day,Consumer
+ORD-1049,PROD-2049,Office Supplies,Tables,826.33,6,0.3,-22.68,South,Seattle,CUST-3049,2023-02-19,2023-02-21,First Class,Home Office
+ORD-1050,PROD-2000,Office Supplies,Chairs,749.33,3,0.1,101.07,South,New York,CUST-3050,2023-02-20,2023-02-22,First Class,Consumer
+ORD-1051,PROD-2001,Furniture,Storage,687.42,7,0.0,346.1,East,Chicago,CUST-3051,2023-02-21,2023-02-23,Second Class,Home Office
+ORD-1052,PROD-2002,Office Supplies,Storage,252.76,3,0.2,-3.54,East,Houston,CUST-3052,2023-02-22,2023-02-24,Standard Class,Corporate
+ORD-1053,PROD-2003,Furniture,Chairs,412.22,8,0.2,390.78,South,New York,CUST-3053,2023-02-23,2023-02-25,Second Class,Home Office
+ORD-1054,PROD-2004,Office Supplies,Accessories,488.16,4,0.2,399.28,Central,New York,CUST-3054,2023-02-24,2023-02-26,Standard Class,Corporate
+ORD-1055,PROD-2005,Technology,Storage,101.23,1,0.1,204.48,South,Houston,CUST-3055,2023-02-25,2023-02-27,First Class,Corporate
+ORD-1056,PROD-2006,Technology,Binders,537.8,4,0.0,-96.17,East,New York,CUST-3056,2023-02-26,2023-02-28,Same Day,Home Office
+ORD-1057,PROD-2007,Furniture,Tables,447.61,7,0.3,72.22,West,Chicago,CUST-3057,2023-02-27,2023-03-01,Second Class,Consumer
+ORD-1058,PROD-2008,Technology,Chairs,806.07,4,0.3,270.16,West,Seattle,CUST-3058,2023-02-28,2023-03-02,Same Day,Consumer
+ORD-1059,PROD-2009,Technology,Tables,978.34,6,0.2,488.71,Central,New York,CUST-3059,2023-03-01,2023-03-03,Second Class,Consumer
+ORD-1060,PROD-2010,Office Supplies,Storage,564.88,9,0.1,279.09,South,Chicago,CUST-3060,2023-03-02,2023-03-04,First Class,Consumer
+ORD-1061,PROD-2011,Furniture,Storage,336.23,1,0.1,55.88,West,San Francisco,CUST-3061,2023-03-03,2023-03-05,First Class,Consumer
+ORD-1062,PROD-2012,Office Supplies,Chairs,62.53,5,0.1,280.4,South,Chicago,CUST-3062,2023-03-04,2023-03-06,First Class,Corporate
+ORD-1063,PROD-2013,Office Supplies,Binders,926.15,7,0.3,223.99,East,Seattle,CUST-3063,2023-03-05,2023-03-07,Second Class,Consumer
+ORD-1064,PROD-2014,Office Supplies,Phones,920.73,1,0.2,367.91,West,Chicago,CUST-3064,2023-03-06,2023-03-08,Standard Class,Corporate
+ORD-1065,PROD-2015,Office Supplies,Chairs,267.93,4,0.0,-35.81,Central,Houston,CUST-3065,2023-03-07,2023-03-09,Second Class,Corporate
+ORD-1066,PROD-2016,Office Supplies,Phones,701.5,6,0.3,356.62,East,Seattle,CUST-3066,2023-03-08,2023-03-10,Standard Class,Corporate
+ORD-1067,PROD-2017,Office Supplies,Accessories,93.93,2,0.2,224.76,Central,San Francisco,CUST-3067,2023-03-09,2023-03-11,Second Class,Home Office
+ORD-1068,PROD-2018,Office Supplies,Phones,182.89,5,0.2,477.8,East,Houston,CUST-3068,2023-03-10,2023-03-12,Second Class,Home Office
+ORD-1069,PROD-2019,Furniture,Binders,232.47,1,0.0,105.12,West,Chicago,CUST-3069,2023-03-11,2023-03-13,First Class,Corporate
+ORD-1070,PROD-2020,Technology,Accessories,308.6,6,0.0,279.57,Central,Seattle,CUST-3070,2023-03-12,2023-03-14,Same Day,Home Office
+ORD-1071,PROD-2021,Office Supplies,Phones,995.91,6,0.0,459.22,Central,San Francisco,CUST-3071,2023-03-13,2023-03-15,Same Day,Consumer
+ORD-1072,PROD-2022,Office Supplies,Accessories,702.99,4,0.1,-38.49,East,Houston,CUST-3072,2023-03-14,2023-03-16,Standard Class,Consumer
+ORD-1073,PROD-2023,Office Supplies,Phones,396.52,8,0.0,462.34,Central,San Francisco,CUST-3073,2023-03-15,2023-03-17,Same Day,Corporate
+ORD-1074,PROD-2024,Office Supplies,Binders,742.36,4,0.2,312.73,East,Chicago,CUST-3074,2023-03-16,2023-03-18,Second Class,Consumer
+ORD-1075,PROD-2025,Office Supplies,Phones,916.95,8,0.0,-59.3,East,San Francisco,CUST-3075,2023-03-17,2023-03-19,Second Class,Corporate
+ORD-1076,PROD-2026,Office Supplies,Phones,959.53,8,0.2,80.58,East,New York,CUST-3076,2023-03-18,2023-03-20,First Class,Corporate
+ORD-1077,PROD-2027,Technology,Phones,76.71,5,0.3,324.9,East,Houston,CUST-3077,2023-03-19,2023-03-21,First Class,Consumer
+ORD-1078,PROD-2028,Technology,Chairs,406.63,4,0.1,-59.59,West,San Francisco,CUST-3078,2023-03-20,2023-03-22,Same Day,Home Office
+ORD-1079,PROD-2029,Office Supplies,Chairs,124.62,2,0.3,249.3,East,Chicago,CUST-3079,2023-03-21,2023-03-23,Standard Class,Consumer
+ORD-1080,PROD-2030,Technology,Chairs,348.95,3,0.3,107.53,South,Chicago,CUST-3000,2023-03-22,2023-03-24,Same Day,Consumer
+ORD-1081,PROD-2031,Furniture,Binders,186.29,3,0.2,272.55,Central,San Francisco,CUST-3001,2023-03-23,2023-03-25,Same Day,Corporate
+ORD-1082,PROD-2032,Office Supplies,Accessories,653.91,4,0.3,-72.55,South,Chicago,CUST-3002,2023-03-24,2023-03-26,Same Day,Corporate
+ORD-1083,PROD-2033,Furniture,Storage,400.5,4,0.2,422.92,West,Seattle,CUST-3003,2023-03-25,2023-03-27,Same Day,Corporate
+ORD-1084,PROD-2034,Furniture,Phones,244.81,5,0.0,484.09,South,Seattle,CUST-3004,2023-03-26,2023-03-28,Second Class,Corporate
+ORD-1085,PROD-2035,Office Supplies,Phones,280.62,4,0.0,481.33,Central,Seattle,CUST-3005,2023-03-27,2023-03-29,Standard Class,Home Office
+ORD-1086,PROD-2036,Technology,Binders,373.14,8,0.2,349.79,South,New York,CUST-3006,2023-03-28,2023-03-30,Second Class,Home Office
+ORD-1087,PROD-2037,Furniture,Phones,274.75,6,0.0,-21.95,West,San Francisco,CUST-3007,2023-03-29,2023-03-31,Standard Class,Home Office
+ORD-1088,PROD-2038,Office Supplies,Chairs,464.18,6,0.1,354.96,East,New York,CUST-3008,2023-03-30,2023-04-01,First Class,Corporate
+ORD-1089,PROD-2039,Furniture,Storage,51.67,8,0.3,-85.25,South,Chicago,CUST-3009,2023-03-31,2023-04-02,Same Day,Corporate
+ORD-1090,PROD-2040,Furniture,Tables,294.17,7,0.1,-86.73,West,New York,CUST-3010,2023-04-01,2023-04-03,Second Class,Corporate
+ORD-1091,PROD-2041,Furniture,Phones,422.98,8,0.3,94.17,West,Chicago,CUST-3011,2023-04-02,2023-04-04,Standard Class,Home Office
+ORD-1092,PROD-2042,Furniture,Chairs,610.73,2,0.0,193.19,Central,Chicago,CUST-3012,2023-04-03,2023-04-05,First Class,Corporate
+ORD-1093,PROD-2043,Technology,Tables,285.54,9,0.1,362.24,Central,Houston,CUST-3013,2023-04-04,2023-04-06,First Class,Consumer
+ORD-1094,PROD-2044,Furniture,Storage,150.52,1,0.0,309.98,South,Seattle,CUST-3014,2023-04-05,2023-04-07,Same Day,Consumer
+ORD-1095,PROD-2045,Furniture,Tables,94.68,8,0.3,167.54,East,Chicago,CUST-3015,2023-04-06,2023-04-08,Standard Class,Corporate
+ORD-1096,PROD-2046,Furniture,Chairs,941.72,4,0.2,64.18,West,Houston,CUST-3016,2023-04-07,2023-04-09,Second Class,Consumer
+ORD-1097,PROD-2047,Technology,Accessories,428.31,4,0.2,498.27,South,Seattle,CUST-3017,2023-04-08,2023-04-10,Same Day,Consumer
+ORD-1098,PROD-2048,Furniture,Accessories,589.54,5,0.1,155.71,West,Chicago,CUST-3018,2023-04-09,2023-04-11,Second Class,Home Office
+ORD-1099,PROD-2049,Furniture,Tables,920.79,8,0.0,170.83,West,Chicago,CUST-3019,2023-04-10,2023-04-12,First Class,Corporate
+ORD-1100,PROD-2000,Technology,Binders,101.09,5,0.0,-1.83,East,New York,CUST-3020,2023-04-11,2023-04-13,Second Class,Corporate
+ORD-1101,PROD-2001,Technology,Tables,879.13,8,0.1,376.89,East,New York,CUST-3021,2023-04-12,2023-04-14,Second Class,Home Office
+ORD-1102,PROD-2002,Technology,Phones,560.56,1,0.2,316.21,South,Seattle,CUST-3022,2023-04-13,2023-04-15,Same Day,Consumer
+ORD-1103,PROD-2003,Furniture,Phones,181.54,9,0.3,32.46,East,Chicago,CUST-3023,2023-04-14,2023-04-16,Second Class,Consumer
+ORD-1104,PROD-2004,Technology,Accessories,423.03,6,0.1,-50.57,East,San Francisco,CUST-3024,2023-04-15,2023-04-17,Same Day,Corporate
+ORD-1105,PROD-2005,Technology,Binders,782.05,3,0.3,308.3,South,New York,CUST-3025,2023-04-16,2023-04-18,First Class,Consumer
+ORD-1106,PROD-2006,Furniture,Chairs,490.76,8,0.2,292.71,East,Seattle,CUST-3026,2023-04-17,2023-04-19,Same Day,Home Office
+ORD-1107,PROD-2007,Technology,Phones,985.58,9,0.0,63.96,Central,Chicago,CUST-3027,2023-04-18,2023-04-20,Same Day,Home Office
+ORD-1108,PROD-2008,Furniture,Accessories,389.2,6,0.2,470.52,West,Chicago,CUST-3028,2023-04-19,2023-04-21,Standard Class,Corporate
+ORD-1109,PROD-2009,Office Supplies,Storage,754.59,7,0.1,-9.37,West,San Francisco,CUST-3029,2023-04-20,2023-04-22,Second Class,Home Office
+ORD-1110,PROD-2010,Technology,Accessories,405.13,1,0.0,159.4,West,Seattle,CUST-3030,2023-04-21,2023-04-23,First Class,Home Office
+ORD-1111,PROD-2011,Office Supplies,Phones,832.58,5,0.1,466.17,West,Chicago,CUST-3031,2023-04-22,2023-04-24,Same Day,Corporate
+ORD-1112,PROD-2012,Furniture,Phones,577.7,5,0.1,151.84,South,New York,CUST-3032,2023-04-23,2023-04-25,First Class,Home Office
+ORD-1113,PROD-2013,Technology,Accessories,82.24,4,0.2,283.12,West,San Francisco,CUST-3033,2023-04-24,2023-04-26,Standard Class,Home Office
+ORD-1114,PROD-2014,Furniture,Chairs,56.09,6,0.1,138.56,West,Seattle,CUST-3034,2023-04-25,2023-04-27,Second Class,Home Office
+ORD-1115,PROD-2015,Office Supplies,Tables,151.18,7,0.2,64.53,West,San Francisco,CUST-3035,2023-04-26,2023-04-28,Same Day,Consumer
+ORD-1116,PROD-2016,Furniture,Phones,33.4,9,0.0,490.39,West,New York,CUST-3036,2023-04-27,2023-04-29,Second Class,Corporate
+ORD-1117,PROD-2017,Technology,Accessories,93.85,1,0.2,145.6,Central,Seattle,CUST-3037,2023-04-28,2023-04-30,Standard Class,Corporate
+ORD-1118,PROD-2018,Technology,Accessories,697.88,6,0.0,436.46,West,San Francisco,CUST-3038,2023-04-29,2023-05-01,Standard Class,Corporate
+ORD-1119,PROD-2019,Office Supplies,Binders,543.66,7,0.2,37.97,Central,Houston,CUST-3039,2023-04-30,2023-05-02,First Class,Consumer
+ORD-1120,PROD-2020,Furniture,Tables,754.91,3,0.3,27.86,South,New York,CUST-3040,2023-05-01,2023-05-03,Same Day,Consumer
+ORD-1121,PROD-2021,Technology,Storage,914.9,8,0.3,-81.32,East,New York,CUST-3041,2023-05-02,2023-05-04,First Class,Corporate
+ORD-1122,PROD-2022,Office Supplies,Chairs,593.45,5,0.1,291.0,West,New York,CUST-3042,2023-05-03,2023-05-05,Standard Class,Consumer
+ORD-1123,PROD-2023,Technology,Storage,731.6,9,0.2,121.12,East,Houston,CUST-3043,2023-05-04,2023-05-06,Second Class,Corporate
+ORD-1124,PROD-2024,Technology,Tables,761.94,5,0.2,418.61,East,Houston,CUST-3044,2023-05-05,2023-05-07,First Class,Consumer
+ORD-1125,PROD-2025,Furniture,Tables,390.29,9,0.0,183.93,South,Chicago,CUST-3045,2023-05-06,2023-05-08,First Class,Home Office
+ORD-1126,PROD-2026,Technology,Tables,256.26,4,0.1,480.92,East,San Francisco,CUST-3046,2023-05-07,2023-05-09,Second Class,Home Office
+ORD-1127,PROD-2027,Furniture,Storage,220.94,9,0.2,11.32,Central,Chicago,CUST-3047,2023-05-08,2023-05-10,First Class,Corporate
+ORD-1128,PROD-2028,Technology,Tables,266.41,5,0.1,421.17,East,San Francisco,CUST-3048,2023-05-09,2023-05-11,Second Class,Consumer
+ORD-1129,PROD-2029,Office Supplies,Accessories,289.24,9,0.3,365.96,East,Houston,CUST-3049,2023-05-10,2023-05-12,Same Day,Consumer
+ORD-1130,PROD-2030,Technology,Storage,223.08,3,0.2,362.55,East,Houston,CUST-3050,2023-05-11,2023-05-13,Second Class,Home Office
+ORD-1131,PROD-2031,Furniture,Tables,880.66,4,0.2,406.87,West,Chicago,CUST-3051,2023-05-12,2023-05-14,Same Day,Home Office
+ORD-1132,PROD-2032,Furniture,Accessories,761.86,9,0.1,356.61,West,Seattle,CUST-3052,2023-05-13,2023-05-15,Second Class,Consumer
+ORD-1133,PROD-2033,Office Supplies,Binders,65.96,6,0.2,275.73,Central,Chicago,CUST-3053,2023-05-14,2023-05-16,Standard Class,Consumer
+ORD-1134,PROD-2034,Technology,Tables,283.3,2,0.1,-21.25,Central,San Francisco,CUST-3054,2023-05-15,2023-05-17,Standard Class,Consumer
+ORD-1135,PROD-2035,Technology,Storage,41.74,7,0.2,-80.48,West,Chicago,CUST-3055,2023-05-16,2023-05-18,Same Day,Consumer
+ORD-1136,PROD-2036,Office Supplies,Phones,508.2,2,0.0,452.51,Central,New York,CUST-3056,2023-05-17,2023-05-19,Same Day,Consumer
+ORD-1137,PROD-2037,Technology,Tables,486.69,2,0.1,269.99,West,San Francisco,CUST-3057,2023-05-18,2023-05-20,Standard Class,Consumer
+ORD-1138,PROD-2038,Technology,Phones,834.74,1,0.2,377.92,South,San Francisco,CUST-3058,2023-05-19,2023-05-21,Same Day,Corporate
+ORD-1139,PROD-2039,Furniture,Accessories,321.62,3,0.3,188.91,East,Seattle,CUST-3059,2023-05-20,2023-05-22,Second Class,Consumer
+ORD-1140,PROD-2040,Technology,Binders,820.06,6,0.2,-29.62,East,Houston,CUST-3060,2023-05-21,2023-05-23,Second Class,Home Office
+ORD-1141,PROD-2041,Technology,Chairs,968.61,8,0.3,-24.89,Central,San Francisco,CUST-3061,2023-05-22,2023-05-24,Standard Class,Corporate
+ORD-1142,PROD-2042,Office Supplies,Binders,106.64,9,0.3,311.34,West,Houston,CUST-3062,2023-05-23,2023-05-25,First Class,Consumer
+ORD-1143,PROD-2043,Office Supplies,Tables,795.98,7,0.0,158.18,West,Chicago,CUST-3063,2023-05-24,2023-05-26,Second Class,Home Office
+ORD-1144,PROD-2044,Furniture,Phones,598.16,4,0.1,20.31,Central,New York,CUST-3064,2023-05-25,2023-05-27,Same Day,Corporate
+ORD-1145,PROD-2045,Technology,Phones,490.45,6,0.2,194.96,West,Seattle,CUST-3065,2023-05-26,2023-05-28,First Class,Home Office
+ORD-1146,PROD-2046,Technology,Storage,432.13,5,0.0,-61.47,South,Houston,CUST-3066,2023-05-27,2023-05-29,First Class,Consumer
+ORD-1147,PROD-2047,Technology,Phones,788.97,8,0.2,249.18,East,San Francisco,CUST-3067,2023-05-28,2023-05-30,Second Class,Consumer
+ORD-1148,PROD-2048,Furniture,Storage,646.57,1,0.3,61.4,Central,Houston,CUST-3068,2023-05-29,2023-05-31,Second Class,Consumer
+ORD-1149,PROD-2049,Furniture,Accessories,808.94,1,0.1,378.54,Central,San Francisco,CUST-3069,2023-05-30,2023-06-01,First Class,Consumer
+ORD-1150,PROD-2000,Office Supplies,Chairs,905.09,6,0.2,86.22,West,Houston,CUST-3070,2023-05-31,2023-06-02,First Class,Corporate
+ORD-1151,PROD-2001,Furniture,Tables,624.92,2,0.2,173.13,Central,San Francisco,CUST-3071,2023-06-01,2023-06-03,Standard Class,Corporate
+ORD-1152,PROD-2002,Technology,Storage,980.85,5,0.3,-93.03,South,Chicago,CUST-3072,2023-06-02,2023-06-04,Same Day,Home Office
+ORD-1153,PROD-2003,Technology,Chairs,615.93,1,0.2,-56.53,West,San Francisco,CUST-3073,2023-06-03,2023-06-05,Standard Class,Consumer
+ORD-1154,PROD-2004,Furniture,Phones,643.91,7,0.2,135.5,West,San Francisco,CUST-3074,2023-06-04,2023-06-06,Second Class,Home Office
+ORD-1155,PROD-2005,Technology,Phones,563.72,1,0.3,187.96,West,New York,CUST-3075,2023-06-05,2023-06-07,Standard Class,Corporate
+ORD-1156,PROD-2006,Technology,Chairs,109.18,4,0.0,260.01,West,San Francisco,CUST-3076,2023-06-06,2023-06-08,Standard Class,Consumer
+ORD-1157,PROD-2007,Furniture,Phones,731.87,9,0.3,75.0,South,New York,CUST-3077,2023-06-07,2023-06-09,Standard Class,Consumer
+ORD-1158,PROD-2008,Furniture,Accessories,556.5,1,0.0,316.99,West,Seattle,CUST-3078,2023-06-08,2023-06-10,Standard Class,Corporate
+ORD-1159,PROD-2009,Technology,Accessories,461.89,4,0.1,416.07,Central,New York,CUST-3079,2023-06-09,2023-06-11,Same Day,Corporate
+ORD-1160,PROD-2010,Technology,Chairs,912.26,6,0.0,367.91,South,Chicago,CUST-3000,2023-06-10,2023-06-12,Same Day,Corporate
+ORD-1161,PROD-2011,Technology,Storage,312.0,6,0.0,-76.23,East,New York,CUST-3001,2023-06-11,2023-06-13,First Class,Corporate
+ORD-1162,PROD-2012,Office Supplies,Storage,533.13,8,0.1,188.3,East,Seattle,CUST-3002,2023-06-12,2023-06-14,Second Class,Corporate
+ORD-1163,PROD-2013,Office Supplies,Chairs,703.69,1,0.0,-37.04,Central,Chicago,CUST-3003,2023-06-13,2023-06-15,Standard Class,Consumer
+ORD-1164,PROD-2014,Office Supplies,Storage,800.54,7,0.3,45.23,Central,Houston,CUST-3004,2023-06-14,2023-06-16,First Class,Corporate
+ORD-1165,PROD-2015,Furniture,Storage,470.16,1,0.0,492.0,South,Houston,CUST-3005,2023-06-15,2023-06-17,First Class,Consumer
+ORD-1166,PROD-2016,Office Supplies,Accessories,845.25,7,0.1,-14.5,East,New York,CUST-3006,2023-06-16,2023-06-18,First Class,Consumer
+ORD-1167,PROD-2017,Furniture,Storage,773.54,3,0.3,199.33,East,New York,CUST-3007,2023-06-17,2023-06-19,Same Day,Corporate
+ORD-1168,PROD-2018,Furniture,Binders,84.91,8,0.1,270.89,East,Seattle,CUST-3008,2023-06-18,2023-06-20,Standard Class,Corporate
+ORD-1169,PROD-2019,Office Supplies,Tables,64.94,3,0.1,321.48,East,Seattle,CUST-3009,2023-06-19,2023-06-21,Standard Class,Consumer
+ORD-1170,PROD-2020,Office Supplies,Phones,628.39,1,0.2,235.79,East,San Francisco,CUST-3010,2023-06-20,2023-06-22,Second Class,Corporate
+ORD-1171,PROD-2021,Office Supplies,Binders,360.47,8,0.2,-94.14,West,Seattle,CUST-3011,2023-06-21,2023-06-23,Standard Class,Corporate
+ORD-1172,PROD-2022,Technology,Storage,224.95,3,0.1,95.88,Central,San Francisco,CUST-3012,2023-06-22,2023-06-24,Standard Class,Corporate
+ORD-1173,PROD-2023,Office Supplies,Accessories,588.06,2,0.1,210.63,West,Chicago,CUST-3013,2023-06-23,2023-06-25,First Class,Home Office
+ORD-1174,PROD-2024,Technology,Chairs,354.73,1,0.1,-47.28,East,New York,CUST-3014,2023-06-24,2023-06-26,Second Class,Consumer
+ORD-1175,PROD-2025,Furniture,Storage,546.52,3,0.2,110.38,South,Chicago,CUST-3015,2023-06-25,2023-06-27,Standard Class,Home Office
+ORD-1176,PROD-2026,Technology,Accessories,470.92,2,0.2,-80.08,South,Seattle,CUST-3016,2023-06-26,2023-06-28,Same Day,Corporate
+ORD-1177,PROD-2027,Office Supplies,Tables,593.07,2,0.0,-52.85,East,Chicago,CUST-3017,2023-06-27,2023-06-29,Standard Class,Home Office
+ORD-1178,PROD-2028,Furniture,Storage,412.29,6,0.0,138.15,East,Chicago,CUST-3018,2023-06-28,2023-06-30,First Class,Corporate
+ORD-1179,PROD-2029,Furniture,Chairs,703.71,1,0.1,-20.37,South,Chicago,CUST-3019,2023-06-29,2023-07-01,Same Day,Home Office
+ORD-1180,PROD-2030,Furniture,Accessories,196.47,2,0.3,240.52,West,Seattle,CUST-3020,2023-06-30,2023-07-02,First Class,Corporate
+ORD-1181,PROD-2031,Technology,Accessories,702.57,6,0.3,313.68,West,Chicago,CUST-3021,2023-07-01,2023-07-03,Standard Class,Home Office
+ORD-1182,PROD-2032,Office Supplies,Accessories,423.43,3,0.2,380.35,East,San Francisco,CUST-3022,2023-07-02,2023-07-04,Same Day,Home Office
+ORD-1183,PROD-2033,Furniture,Tables,876.83,4,0.2,20.09,West,Seattle,CUST-3023,2023-07-03,2023-07-05,Second Class,Home Office
+ORD-1184,PROD-2034,Furniture,Storage,524.93,1,0.2,0.49,South,Chicago,CUST-3024,2023-07-04,2023-07-06,Second Class,Consumer
+ORD-1185,PROD-2035,Furniture,Tables,973.65,8,0.1,-37.26,West,Seattle,CUST-3025,2023-07-05,2023-07-07,Same Day,Home Office
+ORD-1186,PROD-2036,Technology,Phones,609.9,7,0.3,281.86,East,Houston,CUST-3026,2023-07-06,2023-07-08,Same Day,Consumer
+ORD-1187,PROD-2037,Technology,Phones,239.37,7,0.0,323.89,South,San Francisco,CUST-3027,2023-07-07,2023-07-09,First Class,Corporate
+ORD-1188,PROD-2038,Office Supplies,Storage,825.35,3,0.1,-81.05,West,Chicago,CUST-3028,2023-07-08,2023-07-10,Same Day,Home Office
+ORD-1189,PROD-2039,Technology,Tables,358.18,3,0.0,461.73,Central,Houston,CUST-3029,2023-07-09,2023-07-11,First Class,Corporate
+ORD-1190,PROD-2040,Furniture,Chairs,360.67,2,0.0,-68.82,South,Houston,CUST-3030,2023-07-10,2023-07-12,Standard Class,Corporate
+ORD-1191,PROD-2041,Office Supplies,Accessories,51.17,1,0.1,224.78,South,Seattle,CUST-3031,2023-07-11,2023-07-13,First Class,Home Office
+ORD-1192,PROD-2042,Furniture,Accessories,557.74,7,0.0,325.44,Central,Houston,CUST-3032,2023-07-12,2023-07-14,Same Day,Consumer
+ORD-1193,PROD-2043,Furniture,Storage,543.74,7,0.3,422.58,Central,San Francisco,CUST-3033,2023-07-13,2023-07-15,Same Day,Home Office
+ORD-1194,PROD-2044,Technology,Phones,368.87,2,0.0,328.45,South,San Francisco,CUST-3034,2023-07-14,2023-07-16,Standard Class,Corporate
+ORD-1195,PROD-2045,Office Supplies,Phones,896.33,7,0.3,381.04,Central,New York,CUST-3035,2023-07-15,2023-07-17,Same Day,Corporate
+ORD-1196,PROD-2046,Technology,Accessories,146.17,8,0.3,103.67,East,San Francisco,CUST-3036,2023-07-16,2023-07-18,Same Day,Home Office
+ORD-1197,PROD-2047,Technology,Storage,343.5,1,0.3,388.9,East,Houston,CUST-3037,2023-07-17,2023-07-19,Second Class,Consumer
+ORD-1198,PROD-2048,Office Supplies,Tables,335.15,9,0.2,-51.93,East,San Francisco,CUST-3038,2023-07-18,2023-07-20,Second Class,Consumer
+ORD-1199,PROD-2049,Furniture,Phones,110.44,7,0.0,436.89,South,Seattle,CUST-3039,2023-07-19,2023-07-21,Standard Class,Corporate
+ORD-1200,PROD-2000,Furniture,Tables,491.52,3,0.1,228.56,Central,New York,CUST-3040,2023-07-20,2023-07-22,First Class,Corporate
+ORD-1201,PROD-2001,Office Supplies,Phones,694.03,8,0.1,390.38,Central,Houston,CUST-3041,2023-07-21,2023-07-23,Second Class,Consumer
+ORD-1202,PROD-2002,Furniture,Phones,521.42,7,0.0,171.39,West,New York,CUST-3042,2023-07-22,2023-07-24,First Class,Home Office
+ORD-1203,PROD-2003,Office Supplies,Binders,173.84,8,0.2,286.15,West,Houston,CUST-3043,2023-07-23,2023-07-25,Same Day,Corporate
+ORD-1204,PROD-2004,Office Supplies,Phones,389.74,6,0.2,215.84,Central,Seattle,CUST-3044,2023-07-24,2023-07-26,Second Class,Consumer
+ORD-1205,PROD-2005,Technology,Chairs,22.54,9,0.3,338.95,Central,New York,CUST-3045,2023-07-25,2023-07-27,Standard Class,Corporate
+ORD-1206,PROD-2006,Office Supplies,Storage,870.94,5,0.0,-51.02,Central,Chicago,CUST-3046,2023-07-26,2023-07-28,Standard Class,Home Office
+ORD-1207,PROD-2007,Technology,Storage,102.83,3,0.0,-63.79,South,Houston,CUST-3047,2023-07-27,2023-07-29,Standard Class,Consumer
+ORD-1208,PROD-2008,Furniture,Tables,605.33,3,0.1,48.26,Central,Chicago,CUST-3048,2023-07-28,2023-07-30,Second Class,Corporate
+ORD-1209,PROD-2009,Furniture,Phones,986.53,1,0.0,-4.27,West,New York,CUST-3049,2023-07-29,2023-07-31,First Class,Home Office
+ORD-1210,PROD-2010,Furniture,Chairs,545.86,8,0.2,423.07,South,Chicago,CUST-3050,2023-07-30,2023-08-01,Same Day,Corporate
+ORD-1211,PROD-2011,Furniture,Tables,925.56,2,0.0,31.53,Central,Chicago,CUST-3051,2023-07-31,2023-08-02,First Class,Home Office
+ORD-1212,PROD-2012,Technology,Binders,251.39,3,0.1,485.52,West,New York,CUST-3052,2023-08-01,2023-08-03,First Class,Home Office
+ORD-1213,PROD-2013,Furniture,Tables,764.76,8,0.3,102.14,South,Seattle,CUST-3053,2023-08-02,2023-08-04,Same Day,Consumer
+ORD-1214,PROD-2014,Office Supplies,Tables,540.64,8,0.1,9.27,Central,Chicago,CUST-3054,2023-08-03,2023-08-05,Same Day,Home Office
+ORD-1215,PROD-2015,Office Supplies,Phones,726.11,4,0.1,373.82,Central,Chicago,CUST-3055,2023-08-04,2023-08-06,Second Class,Corporate
+ORD-1216,PROD-2016,Office Supplies,Binders,81.09,4,0.3,295.22,Central,Seattle,CUST-3056,2023-08-05,2023-08-07,Second Class,Home Office
+ORD-1217,PROD-2017,Technology,Tables,164.78,5,0.1,198.92,South,Chicago,CUST-3057,2023-08-06,2023-08-08,Second Class,Home Office
+ORD-1218,PROD-2018,Furniture,Chairs,150.45,6,0.1,233.22,West,Chicago,CUST-3058,2023-08-07,2023-08-09,Second Class,Consumer
+ORD-1219,PROD-2019,Furniture,Chairs,693.42,5,0.0,331.52,West,Chicago,CUST-3059,2023-08-08,2023-08-10,Second Class,Home Office
+ORD-1220,PROD-2020,Furniture,Storage,847.55,7,0.0,37.07,East,San Francisco,CUST-3060,2023-08-09,2023-08-11,Same Day,Home Office
+ORD-1221,PROD-2021,Technology,Binders,754.62,2,0.3,497.8,Central,Seattle,CUST-3061,2023-08-10,2023-08-12,First Class,Corporate
+ORD-1222,PROD-2022,Office Supplies,Binders,49.86,7,0.0,484.88,East,Chicago,CUST-3062,2023-08-11,2023-08-13,Second Class,Consumer
+ORD-1223,PROD-2023,Office Supplies,Storage,869.87,7,0.0,290.2,East,Seattle,CUST-3063,2023-08-12,2023-08-14,Second Class,Consumer
+ORD-1224,PROD-2024,Furniture,Tables,367.06,1,0.1,19.73,West,Houston,CUST-3064,2023-08-13,2023-08-15,First Class,Consumer
+ORD-1225,PROD-2025,Office Supplies,Binders,409.22,7,0.2,308.14,South,Houston,CUST-3065,2023-08-14,2023-08-16,Second Class,Home Office
+ORD-1226,PROD-2026,Office Supplies,Chairs,122.77,5,0.0,-56.68,South,Chicago,CUST-3066,2023-08-15,2023-08-17,First Class,Consumer
+ORD-1227,PROD-2027,Technology,Chairs,742.66,3,0.2,-81.61,West,Seattle,CUST-3067,2023-08-16,2023-08-18,First Class,Home Office
+ORD-1228,PROD-2028,Technology,Phones,198.64,3,0.0,54.61,South,Seattle,CUST-3068,2023-08-17,2023-08-19,Same Day,Home Office
+ORD-1229,PROD-2029,Technology,Binders,572.69,4,0.0,177.57,East,Seattle,CUST-3069,2023-08-18,2023-08-20,Standard Class,Corporate
+ORD-1230,PROD-2030,Technology,Tables,843.9,2,0.3,420.96,Central,San Francisco,CUST-3070,2023-08-19,2023-08-21,Same Day,Corporate
+ORD-1231,PROD-2031,Furniture,Storage,107.42,2,0.3,336.3,West,Houston,CUST-3071,2023-08-20,2023-08-22,Standard Class,Corporate
+ORD-1232,PROD-2032,Technology,Storage,544.63,1,0.3,345.62,Central,Seattle,CUST-3072,2023-08-21,2023-08-23,Standard Class,Corporate
+ORD-1233,PROD-2033,Office Supplies,Tables,248.55,5,0.2,155.3,South,Seattle,CUST-3073,2023-08-22,2023-08-24,Standard Class,Corporate
+ORD-1234,PROD-2034,Furniture,Accessories,356.07,4,0.1,107.56,Central,San Francisco,CUST-3074,2023-08-23,2023-08-25,Second Class,Home Office
+ORD-1235,PROD-2035,Office Supplies,Phones,484.49,2,0.0,122.62,South,San Francisco,CUST-3075,2023-08-24,2023-08-26,Same Day,Home Office
+ORD-1236,PROD-2036,Office Supplies,Storage,368.0,3,0.0,492.59,South,Seattle,CUST-3076,2023-08-25,2023-08-27,Standard Class,Consumer
+ORD-1237,PROD-2037,Office Supplies,Binders,655.85,7,0.0,-75.93,East,New York,CUST-3077,2023-08-26,2023-08-28,First Class,Home Office
+ORD-1238,PROD-2038,Technology,Phones,489.99,7,0.2,420.22,South,Seattle,CUST-3078,2023-08-27,2023-08-29,Second Class,Home Office
+ORD-1239,PROD-2039,Technology,Binders,592.52,4,0.3,247.21,East,Seattle,CUST-3079,2023-08-28,2023-08-30,Same Day,Corporate
+ORD-1240,PROD-2040,Furniture,Chairs,742.09,5,0.1,163.17,East,San Francisco,CUST-3000,2023-08-29,2023-08-31,Standard Class,Home Office
+ORD-1241,PROD-2041,Furniture,Phones,566.59,5,0.2,335.15,East,San Francisco,CUST-3001,2023-08-30,2023-09-01,First Class,Corporate
+ORD-1242,PROD-2042,Technology,Storage,594.8,6,0.3,192.0,West,Seattle,CUST-3002,2023-08-31,2023-09-02,Same Day,Consumer
+ORD-1243,PROD-2043,Office Supplies,Phones,573.17,9,0.2,424.05,West,Seattle,CUST-3003,2023-09-01,2023-09-03,Same Day,Consumer
+ORD-1244,PROD-2044,Furniture,Phones,391.2,2,0.1,440.42,South,Seattle,CUST-3004,2023-09-02,2023-09-04,Second Class,Home Office
+ORD-1245,PROD-2045,Technology,Phones,350.7,5,0.3,153.03,East,San Francisco,CUST-3005,2023-09-03,2023-09-05,Same Day,Consumer
+ORD-1246,PROD-2046,Technology,Accessories,901.65,3,0.2,66.1,West,Seattle,CUST-3006,2023-09-04,2023-09-06,Second Class,Home Office
+ORD-1247,PROD-2047,Technology,Phones,615.4,4,0.1,255.41,East,Seattle,CUST-3007,2023-09-05,2023-09-07,Standard Class,Consumer
+ORD-1248,PROD-2048,Office Supplies,Binders,259.47,6,0.0,447.42,Central,Chicago,CUST-3008,2023-09-06,2023-09-08,Second Class,Corporate
+ORD-1249,PROD-2049,Technology,Chairs,508.28,8,0.1,26.4,Central,New York,CUST-3009,2023-09-07,2023-09-09,First Class,Corporate
+ORD-1250,PROD-2000,Technology,Tables,343.74,1,0.0,273.78,Central,Houston,CUST-3010,2023-09-08,2023-09-10,Second Class,Corporate
+ORD-1251,PROD-2001,Technology,Phones,935.02,8,0.2,278.94,South,New York,CUST-3011,2023-09-09,2023-09-11,First Class,Corporate
+ORD-1252,PROD-2002,Technology,Storage,27.38,7,0.3,339.87,East,Chicago,CUST-3012,2023-09-10,2023-09-12,Second Class,Home Office
+ORD-1253,PROD-2003,Furniture,Phones,240.83,1,0.3,-21.06,Central,Houston,CUST-3013,2023-09-11,2023-09-13,Same Day,Consumer
+ORD-1254,PROD-2004,Furniture,Storage,378.05,2,0.2,329.49,West,Seattle,CUST-3014,2023-09-12,2023-09-14,Standard Class,Home Office
+ORD-1255,PROD-2005,Technology,Binders,498.05,3,0.3,445.42,Central,Chicago,CUST-3015,2023-09-13,2023-09-15,First Class,Corporate
+ORD-1256,PROD-2006,Office Supplies,Storage,853.8,1,0.3,7.81,Central,Seattle,CUST-3016,2023-09-14,2023-09-16,Second Class,Home Office
+ORD-1257,PROD-2007,Furniture,Tables,106.13,9,0.0,42.53,Central,San Francisco,CUST-3017,2023-09-15,2023-09-17,Second Class,Consumer
+ORD-1258,PROD-2008,Technology,Chairs,809.75,8,0.2,482.84,South,Chicago,CUST-3018,2023-09-16,2023-09-18,Second Class,Home Office
+ORD-1259,PROD-2009,Furniture,Storage,74.54,2,0.1,8.59,West,San Francisco,CUST-3019,2023-09-17,2023-09-19,Same Day,Consumer
+ORD-1260,PROD-2010,Furniture,Storage,845.47,9,0.0,412.63,East,Chicago,CUST-3020,2023-09-18,2023-09-20,Same Day,Home Office
+ORD-1261,PROD-2011,Office Supplies,Chairs,70.6,7,0.2,195.37,West,Chicago,CUST-3021,2023-09-19,2023-09-21,First Class,Consumer
+ORD-1262,PROD-2012,Technology,Tables,37.88,9,0.0,48.34,East,San Francisco,CUST-3022,2023-09-20,2023-09-22,First Class,Consumer
+ORD-1263,PROD-2013,Technology,Phones,703.02,6,0.1,422.45,South,Houston,CUST-3023,2023-09-21,2023-09-23,Same Day,Corporate
+ORD-1264,PROD-2014,Office Supplies,Storage,997.31,6,0.1,167.18,South,New York,CUST-3024,2023-09-22,2023-09-24,First Class,Consumer
+ORD-1265,PROD-2015,Office Supplies,Chairs,898.68,4,0.2,208.89,South,Seattle,CUST-3025,2023-09-23,2023-09-25,Standard Class,Corporate
+ORD-1266,PROD-2016,Technology,Binders,584.48,2,0.1,115.54,South,Chicago,CUST-3026,2023-09-24,2023-09-26,Standard Class,Corporate
+ORD-1267,PROD-2017,Technology,Chairs,919.05,7,0.0,255.77,East,Seattle,CUST-3027,2023-09-25,2023-09-27,Same Day,Corporate
+ORD-1268,PROD-2018,Office Supplies,Binders,25.19,5,0.1,-1.89,Central,San Francisco,CUST-3028,2023-09-26,2023-09-28,First Class,Home Office
+ORD-1269,PROD-2019,Furniture,Tables,975.57,6,0.0,134.65,East,Seattle,CUST-3029,2023-09-27,2023-09-29,Second Class,Home Office
+ORD-1270,PROD-2020,Furniture,Phones,500.93,2,0.0,481.65,West,San Francisco,CUST-3030,2023-09-28,2023-09-30,Standard Class,Home Office
+ORD-1271,PROD-2021,Office Supplies,Chairs,728.44,5,0.1,54.88,South,Seattle,CUST-3031,2023-09-29,2023-10-01,Same Day,Home Office
+ORD-1272,PROD-2022,Furniture,Accessories,824.44,4,0.2,294.04,South,New York,CUST-3032,2023-09-30,2023-10-02,First Class,Consumer
+ORD-1273,PROD-2023,Office Supplies,Storage,724.09,9,0.3,95.11,West,New York,CUST-3033,2023-10-01,2023-10-03,Same Day,Consumer
+ORD-1274,PROD-2024,Furniture,Tables,544.34,6,0.1,364.08,East,New York,CUST-3034,2023-10-02,2023-10-04,Second Class,Home Office
+ORD-1275,PROD-2025,Furniture,Chairs,487.09,2,0.0,-21.48,Central,New York,CUST-3035,2023-10-03,2023-10-05,Standard Class,Consumer
+ORD-1276,PROD-2026,Technology,Storage,841.81,1,0.0,481.89,Central,New York,CUST-3036,2023-10-04,2023-10-06,Same Day,Consumer
+ORD-1277,PROD-2027,Technology,Chairs,220.98,5,0.1,172.27,West,New York,CUST-3037,2023-10-05,2023-10-07,Same Day,Corporate
+ORD-1278,PROD-2028,Furniture,Binders,968.63,9,0.2,41.63,Central,San Francisco,CUST-3038,2023-10-06,2023-10-08,Same Day,Corporate
+ORD-1279,PROD-2029,Furniture,Chairs,716.73,6,0.2,-55.9,East,Chicago,CUST-3039,2023-10-07,2023-10-09,Second Class,Corporate
+ORD-1280,PROD-2030,Technology,Accessories,215.52,7,0.0,1.85,East,Seattle,CUST-3040,2023-10-08,2023-10-10,Same Day,Corporate
+ORD-1281,PROD-2031,Technology,Chairs,741.52,5,0.0,211.86,West,New York,CUST-3041,2023-10-09,2023-10-11,Second Class,Consumer
+ORD-1282,PROD-2032,Technology,Chairs,539.24,6,0.2,102.2,East,San Francisco,CUST-3042,2023-10-10,2023-10-12,Second Class,Home Office
+ORD-1283,PROD-2033,Office Supplies,Accessories,713.09,5,0.3,397.33,South,San Francisco,CUST-3043,2023-10-11,2023-10-13,Second Class,Consumer
+ORD-1284,PROD-2034,Furniture,Tables,772.42,9,0.1,158.53,West,San Francisco,CUST-3044,2023-10-12,2023-10-14,Standard Class,Consumer
+ORD-1285,PROD-2035,Technology,Chairs,105.54,6,0.0,49.23,East,Chicago,CUST-3045,2023-10-13,2023-10-15,Standard Class,Consumer
+ORD-1286,PROD-2036,Furniture,Accessories,515.98,8,0.0,270.29,West,Seattle,CUST-3046,2023-10-14,2023-10-16,Same Day,Corporate
+ORD-1287,PROD-2037,Office Supplies,Storage,933.37,2,0.2,324.07,Central,Chicago,CUST-3047,2023-10-15,2023-10-17,Same Day,Corporate
+ORD-1288,PROD-2038,Office Supplies,Binders,334.23,9,0.1,0.23,East,Houston,CUST-3048,2023-10-16,2023-10-18,Standard Class,Corporate
+ORD-1289,PROD-2039,Technology,Binders,602.01,5,0.2,0.57,South,San Francisco,CUST-3049,2023-10-17,2023-10-19,First Class,Home Office
+ORD-1290,PROD-2040,Office Supplies,Chairs,381.85,7,0.1,-78.0,East,Houston,CUST-3050,2023-10-18,2023-10-20,Standard Class,Consumer
+ORD-1291,PROD-2041,Furniture,Tables,465.18,1,0.1,341.84,West,New York,CUST-3051,2023-10-19,2023-10-21,Second Class,Home Office
+ORD-1292,PROD-2042,Technology,Tables,557.63,5,0.1,298.28,West,New York,CUST-3052,2023-10-20,2023-10-22,Standard Class,Corporate
+ORD-1293,PROD-2043,Furniture,Storage,557.94,2,0.0,184.78,East,Chicago,CUST-3053,2023-10-21,2023-10-23,Second Class,Home Office
+ORD-1294,PROD-2044,Furniture,Chairs,217.7,6,0.3,406.5,South,Seattle,CUST-3054,2023-10-22,2023-10-24,Same Day,Consumer
+ORD-1295,PROD-2045,Office Supplies,Binders,690.88,1,0.2,383.4,South,Houston,CUST-3055,2023-10-23,2023-10-25,First Class,Consumer
+ORD-1296,PROD-2046,Office Supplies,Tables,106.11,3,0.3,251.21,South,Seattle,CUST-3056,2023-10-24,2023-10-26,Same Day,Corporate
+ORD-1297,PROD-2047,Office Supplies,Chairs,156.05,5,0.2,420.96,West,Chicago,CUST-3057,2023-10-25,2023-10-27,Second Class,Corporate
+ORD-1298,PROD-2048,Office Supplies,Tables,22.66,4,0.1,23.5,East,New York,CUST-3058,2023-10-26,2023-10-28,Second Class,Home Office
+ORD-1299,PROD-2049,Office Supplies,Accessories,134.36,3,0.0,-32.85,Central,Seattle,CUST-3059,2023-10-27,2023-10-29,Second Class,Corporate
